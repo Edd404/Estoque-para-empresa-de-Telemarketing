@@ -1,0 +1,1 @@
+('C:\\Users\\edermuniz\\Documents\\EstoqueMSSP\\build\\estoque\\PYZ-00.pyz', [])

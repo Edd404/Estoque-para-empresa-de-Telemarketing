@@ -1,0 +1,32 @@
+[
+    {
+        "id": "001",
+        "nome": "camiseta",
+        "fornecedor": "LIPSU",
+        "departamento": "B2B",
+        "valor_unitario": 12.0,
+        "quantidade": 0,
+        "data_cadastro": "02/04/2025",
+        "serials": [
+            {
+                "serial": "1",
+                "status": "Em Uso"
+            }
+        ]
+    },
+    {
+        "id": "002",
+        "nome": "brusa",
+        "fornecedor": "LIPSU",
+        "departamento": "B2C",
+        "valor_unitario": 12.0,
+        "quantidade": 0,
+        "data_cadastro": "02/04/2025",
+        "serials": [
+            {
+                "serial": "1",
+                "status": "Em Uso"
+            }
+        ]
+    }
+]

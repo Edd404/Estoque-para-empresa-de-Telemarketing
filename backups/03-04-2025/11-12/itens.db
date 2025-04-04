@@ -1,0 +1,57 @@
+[
+    {
+        "id": "001",
+        "nome": "camiseta",
+        "fornecedor": "LIPSU",
+        "tamanho": null,
+        "valor_unitario": 12.0,
+        "quantidade": 0,
+        "data_cadastro": "02/04/2025",
+        "serials": [
+            {
+                "serial": "1",
+                "status": "Em Uso"
+            }
+        ]
+    },
+    {
+        "id": "002",
+        "nome": "brusa",
+        "fornecedor": "LIPSU",
+        "tamanho": null,
+        "valor_unitario": 12.0,
+        "quantidade": 0,
+        "data_cadastro": "02/04/2025",
+        "serials": [
+            {
+                "serial": "1",
+                "status": "Em Uso"
+            }
+        ]
+    },
+    {
+        "id": "003",
+        "nome": "regata",
+        "fornecedor": "LIPSU",
+        "tamanho": null,
+        "valor_unitario": 222222.0,
+        "quantidade": 0,
+        "data_cadastro": "02/04/2025",
+        "serials": [
+            {
+                "serial": "2323",
+                "status": "Em Uso"
+            }
+        ]
+    },
+    {
+        "id": "004",
+        "nome": "Teste",
+        "fornecedor": "LIPSU",
+        "tamanho": null,
+        "valor_unitario": 15.0,
+        "quantidade": 0,
+        "data_cadastro": "03/04/2025",
+        "serials": []
+    }
+]

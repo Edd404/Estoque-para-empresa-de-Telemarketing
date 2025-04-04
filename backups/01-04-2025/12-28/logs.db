@@ -1,0 +1,46 @@
+[
+    {
+        "item_id": "001",
+        "nome": "1212",
+        "serial": "1212",
+        "departamento": "B2C",
+        "status_antigo": "",
+        "novo_status": "Novo",
+        "motivo": "Item cadastrado",
+        "responsavel": "Usuário",
+        "data_alteracao": "2025-03-21 12:36:15"
+    },
+    {
+        "item_id": "002",
+        "nome": "ewqewq",
+        "serial": "wqewqe",
+        "departamento": "B2C",
+        "status_antigo": "",
+        "novo_status": "Novo",
+        "motivo": "Item cadastrado",
+        "responsavel": "Usuário",
+        "data_alteracao": "2025-03-21 12:37:47"
+    },
+    {
+        "item_id": "003",
+        "nome": "1212",
+        "serial": "3434",
+        "departamento": "B2B",
+        "status_antigo": "",
+        "novo_status": "Novo",
+        "motivo": "Item cadastrado",
+        "responsavel": "Usuário",
+        "data_alteracao": "2025-03-24 11:39:43"
+    },
+    {
+        "item_id": "003",
+        "nome": "dsdfdsfds",
+        "serial": "232323",
+        "departamento": "B2C",
+        "status_antigo": "",
+        "novo_status": "Novo",
+        "motivo": "Item cadastrado",
+        "responsavel": "Usuário",
+        "data_alteracao": "2025-03-25 10:08:03"
+    }
+]

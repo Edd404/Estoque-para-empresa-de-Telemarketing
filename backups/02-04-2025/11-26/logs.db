@@ -1,0 +1,13 @@
+[
+    {
+        "item_id": "001",
+        "nome": "Computador",
+        "serial": "99999999999",
+        "departamento": "B2C",
+        "status_antigo": "",
+        "novo_status": "Novo",
+        "motivo": "Item cadastrado",
+        "responsavel": "Usuário",
+        "data_alteracao": "2025-04-02 11:05:27"
+    }
+]

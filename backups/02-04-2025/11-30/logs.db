@@ -1,0 +1,24 @@
+[
+    {
+        "item_id": "001",
+        "nome": "camiseta",
+        "serial": "1",
+        "departamento": "B2B",
+        "status_antigo": "",
+        "novo_status": "Novo",
+        "motivo": "Item cadastrado",
+        "responsavel": "Usuário",
+        "data_alteracao": "2025-04-02 11:28:42"
+    },
+    {
+        "item_id": "002",
+        "nome": "brusa",
+        "serial": "1",
+        "departamento": "B2C",
+        "status_antigo": "",
+        "novo_status": "Novo",
+        "motivo": "Item cadastrado",
+        "responsavel": "Usuário",
+        "data_alteracao": "2025-04-02 11:29:05"
+    }
+]

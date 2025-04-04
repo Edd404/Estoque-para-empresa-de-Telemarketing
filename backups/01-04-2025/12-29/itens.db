@@ -1,0 +1,51 @@
+[
+    {
+        "id": "001",
+        "nome": "1212",
+        "fornecedor": "1212",
+        "departamento": "B2C",
+        "valor_unitario": 12.0,
+        "quantidade": 35,
+        "data_cadastro": "21/03/2025",
+        "serials": [
+            {
+                "serial": "1212",
+                "status": "Em Uso"
+            },
+            {
+                "serial": "3434",
+                "status": "Manutenção"
+            }
+        ]
+    },
+    {
+        "id": "002",
+        "nome": "ewqewq",
+        "fornecedor": "1212",
+        "departamento": "B2C",
+        "valor_unitario": 23.0,
+        "quantidade": 123,
+        "data_cadastro": "21/03/2025",
+        "serials": [
+            {
+                "serial": "wqewqe",
+                "status": "Manutenção"
+            }
+        ]
+    },
+    {
+        "id": "003",
+        "nome": "dsdfdsfds",
+        "fornecedor": "1212",
+        "departamento": "B2C",
+        "valor_unitario": 23.0,
+        "quantidade": 23,
+        "data_cadastro": "25/03/2025",
+        "serials": [
+            {
+                "serial": "232323",
+                "status": "Em Uso"
+            }
+        ]
+    }
+]

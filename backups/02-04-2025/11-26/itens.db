@@ -1,0 +1,17 @@
+[
+    {
+        "id": "001",
+        "nome": "Computador",
+        "fornecedor": "OMNI",
+        "departamento": "B2C",
+        "valor_unitario": 50.0,
+        "quantidade": 10,
+        "data_cadastro": "02/04/2025",
+        "serials": [
+            {
+                "serial": "99999999999",
+                "status": "Em Uso"
+            }
+        ]
+    }
+]
